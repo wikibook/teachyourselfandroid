@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <!--
+		임시 질문 XML
+	-->
+<questions>
+    <question
+        number="16"
+        text="길을 잃어버린 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q16.png" />
+    <question
+        number="17"
+        text="파리에 가본 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q17.png" />
+    <question
+        number="18"
+        text="야생 펭귄을 본 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q18.png" />
+    <question
+        number="19"
+        text="지역 특산물을 먹어본 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q19.png" />
+    <question
+        number="20"
+        text="나무에 올라간 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q20.png" />
+    <question
+        number="21"
+        text="외줄 다리를 건너 본 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q21.png" />
+    <question
+        number="22"
+        text="자동차 여행을 떠난 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q22.png" />
+    <question
+        number="23"
+        text="전 세계를 항해한 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q23.png" />
+    <question
+        number="24"
+        text="스키를 타본 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q24.png" />
+    <question
+        number="25"
+        text="유타에 가본 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q25.png" />
+    <question
+        number="26"
+        text="일출을 본 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q26.png" />
+    <question
+        number="27"
+        text="바다 거북과 수영해본 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q27.png" />
+    <question
+        number="28"
+        text="만리장성을 걸어본 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q28.png" />
+    <question
+        number="29"
+        text="폭포 밑에서 샤워해본 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q29.png" />
+    <question
+        number="30"
+        text="이집트의 피라미드에 가본 적이 있습니까?"
+        imageUrl="http://www.perlgurl.org/Android/BeenThereDoneThat/Questions/q30.png" />
+</questions>

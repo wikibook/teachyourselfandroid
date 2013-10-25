@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen
+        name="logo_size">53dp</dimen>
+    <dimen
+        name="version_size">11dp</dimen>
+    <dimen
+        name="version_spacing">7dp</dimen>
+    <dimen
+        name="screen_title_size">36dp</dimen>
+    <dimen
+        name="menu_item_size">36dp</dimen>
+    <dimen
+        name="game_question_size">22dp</dimen>
+    <dimen
+        name="help_text_size">16dp</dimen>
+    <dimen
+        name="help_text_fading">25dp</dimen>
+    <dimen
+        name="help_text_padding">20dp</dimen>
+    <dimen
+        name="help_text_drawable_padding">5dp</dimen>
+    <dimen
+        name="avatar_size">75dp</dimen>
+    <dimen
+        name="fav_place_textbox_size">200dp</dimen>
+    <dimen
+        name="game_button_size">75dp</dimen>
+    <dimen
+        name="game_padding">45dp</dimen>
+    <dimen
+        name="game_image_size">150dp</dimen>
+</resources>

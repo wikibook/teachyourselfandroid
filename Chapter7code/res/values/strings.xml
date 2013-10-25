@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string
+        name="app_name">가봤노라, 해봤노라!</string>
+    <string
+        name="help">도움말 화면</string>
+    <string
+        name="menu">메뉴 화면</string>
+    <string
+        name="splash">시작 화면</string>
+    <string
+        name="settings">환경설정 화면</string>
+    <string
+        name="game">게임 화면</string>
+    <string
+        name="scores">점수 화면</string>
+    <string
+        name="app_logo_top">가봤노라</string>
+    <string
+        name="app_logo_bottom">해봤노라!</string>
+    <string
+        name="app_version_info">버전 1.0.0\n저작권 © 2010 Mamlambo, Inc. All Rights Reserved.
+    </string>
+</resources>
